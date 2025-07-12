@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "95ff6c39c04a31db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a697914345115c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87cf6bec47f1d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_personal/アイデア.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "アイデア"
+            }
+          },
+          {
+            "id": "9a6762541bee83c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Diary/2025-07-10.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-10"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b5acb0cb372f5d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3ac04f03ab1f912b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "ファイルエクスプローラ"
+        }
+      },
+      {
+        "id": "78e68861c118a5e9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "検索"
+        }
+      },
+      {
+        "id": "c945511adfd28875",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "タグ"
+        }
+      },
+      {
+        "id": "61cfa107348ba75e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "ブックマーク"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "efdf0cbc95ec2070",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81d5b2df4c2b66cf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03_personal/アイデア.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "バックリンク"
+        }
+      },
+      {
+        "id": "ae42c771cbdae1cb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "アウトゴーイングリンク"
+        }
+      },
+      {
+        "id": "499362b10cf9cf57",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "アウトライン"
+        }
+      },
+      {
+        "id": "70e3111b70126c60",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "9a6762541bee83c2",
+  "lastOpenFiles": [
+    "03_personal/アイデア.md",
+    "10_Template/フロンタマターテンプレート.md",
+    "10_Template/おすすめ本テンプレート.md",
+    "03_personal/読みたい本リスト/体系的に学ぶ安全なWebアプリケーションの作り方.md",
+    "03_personal/読みたい本リスト/達人プログラマー.md",
+    "03_personal/読みたい本リスト/情熱プログラマー.md",
+    "03_personal/読みたい本リスト/Kubernetesの知識地図.md",
+    "03_personal/読みたい本リスト/テスト駆動開発.md",
+    "03_personal/読みたい本リスト",
+    "03_personal/jambo関係/2025年有給・年休・月給.md",
+    "03_personal/jambo関係",
+    "04_Diary/2025-07-10.md",
+    "04_Diary/2025-07-09.md",
+    "04_Diary/2025-07-08.md",
+    "03_personal/practice.md",
+    "02_Programing/アイデア.md",
+    "02_Programing/jambo/クイックノート(Miu-Web).md",
+    "04_Diary/2025-07-07.md",
+    "04_Diary/2025-07-06.md"
+  ]
+}

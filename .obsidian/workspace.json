@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "189cfb15632e0f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb61b3eb8e3c1b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cd38f6af8e92f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_personal/practice.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "practice"
+            }
+          },
+          {
+            "id": "14877f255ffc76b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Diary/2025-07-11.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-11"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01c4f5d6b57cbc51",
+    "type": "split",
+    "children": [
+      {
+        "id": "851a7a5cc2d5f70e",
+        "type": "tabs",
+        "dimension": 59.04317386231039,
+        "children": [
+          {
+            "id": "24e582c65dc4ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "048abb8328194678",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "297e9a89d21e306f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f6e9fcd191ab980",
+        "type": "tabs",
+        "dimension": 40.95682613768962,
+        "children": [
+          {
+            "id": "be8e12784b054341",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "974d63a84a28b363",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f89222b5bb6568e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741a87e22c659421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "practiceへのバックリンク"
+            }
+          },
+          {
+            "id": "8dec33bb7d124a55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "practiceからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "5f7863aae11e7390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "87ce608fa42d39d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_personal/アイデア.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アイデアのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "14877f255ffc76b0",
+  "lastOpenFiles": [
+    "04_Diary/2025-07-12.md",
+    "04_Diary/2025-07-11.md",
+    "04_Diary/2025-07-10.md",
+    "03_personal/jambo関係/2025年有給・年休・月給.md",
+    "03_personal/practice.md",
+    "03_personal/jambo関係",
+    "03_personal/アイデア.md",
+    "03_personal/読みたい本リスト/Kubernetesの知識地図.md",
+    "03_personal/読みたい本リスト/テスト駆動開発.md",
+    "03_personal/読みたい本リスト/暗号技術のすべて.md",
+    "03_personal/読みたい本リスト/体系的に学ぶ安全なWebアプリケーションの作り方.md",
+    "03_personal/読みたい本リスト/達人プログラマー.md",
+    "10_Template/おすすめ本テンプレート.md",
+    "10_Template/デイリーノートテンプレート.md",
+    "03_personal/読みたい本リスト/情熱プログラマー.md",
+    "10_Template/フロンタマターテンプレート.md",
+    "04_Diary/無題のファイル.md",
+    "04_Diary/2025-07-09.md",
+    "03_personal/読みたい本リスト",
+    "04_Diary/2025-07-08.md",
+    "04_Diary/2025-07-07.md",
+    "02_Programing/jambo/クイックノート(Miu-Web).md",
+    "04_Diary/2025-07-06.md",
+    "02_Programing/アイデア.md",
+    "03_Diary/2025-07-06.md",
+    "03_Diary",
+    "02_Programing/shiftB/ぶべさん_インタビュー(2025-07-06).md",
+    "03_personal",
+    "02_Programing/jambo",
+    "02_Programing/shiftB",
+    "10_Template",
+    "01_indox",
+    "04_Diary",
+    "無題のファイル.canvas",
+    "2025-07-05.md",
+    "02_Programing",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🏢",
+      "📚",
+      "LiTestTubeDiagonal",
+      "👨‍💻",
+      "💡"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "02_Programing": "🖥",
+  "01_indox": "📥",
+  "02_Programing/shiftB": "🏫",
+  "02_Programing/jambo": "🏢",
+  "02_Programing/アイデア.md": "💡",
+  "04_Diary": "📅",
+  "03_personal": "👨‍💻",
+  "03_personal/practice.md": "LiTestTubeDiagonal",
+  "03_personal/アイデア.md": "💡",
+  "10_Template": "📔",
+  "03_personal/読みたい本リスト": "📚",
+  "03_personal/jambo関係": "🏢"
+}
