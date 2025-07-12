@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "95ff6c39c04a31db",
+    "id": "4016b95b8a9ee9ab",
     "type": "split",
     "children": [
       {
-        "id": "a697914345115c64",
+        "id": "4352bf4feda31448",
         "type": "tabs",
         "children": [
           {
-            "id": "e87cf6bec47f1d20",
+            "id": "cbc017ef4f0f395d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_personal/アイデア.md",
+                "file": "04_Diary/2025-07-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "アイデア"
-            }
-          },
-          {
-            "id": "9a6762541bee83c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Diary/2025-07-10.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-10"
+              "title": "2025-07-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f5b5acb0cb372f5d",
+    "id": "01b2a59491843c98",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3ac04f03ab1f912b",
+        "id": "77d8318071c379e4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -59,7 +44,7 @@
         }
       },
       {
-        "id": "78e68861c118a5e9",
+        "id": "248e373d312a6241",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -76,7 +61,7 @@
         }
       },
       {
-        "id": "c945511adfd28875",
+        "id": "ae928f2c1dbcd3a4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -91,7 +76,7 @@
         }
       },
       {
-        "id": "61cfa107348ba75e",
+        "id": "38018644472115d1",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "efdf0cbc95ec2070",
+    "id": "3393715222065731",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "81d5b2df4c2b66cf",
+        "id": "43120bd1e6f88032",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03_personal/アイデア.md",
+            "file": "04_Diary/2025-07-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,11 +112,12 @@
         }
       },
       {
-        "id": "ae42c771cbdae1cb",
+        "id": "2ebda24fc1f73579",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "04_Diary/2025-07-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -140,11 +126,12 @@
         }
       },
       {
-        "id": "499362b10cf9cf57",
+        "id": "ba7b9df943cd8bb0",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "04_Diary/2025-07-11.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,17 +141,17 @@
         }
       },
       {
-        "id": "70e3111b70126c60",
+        "id": "f20665a76f55f1e0",
         "type": "leaf",
         "state": {
-          "type": "calendar",
+          "type": "git-view",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,29 +160,40 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a6762541bee83c2",
+  "active": "cbc017ef4f0f395d",
   "lastOpenFiles": [
-    "03_personal/アイデア.md",
-    "10_Template/フロンタマターテンプレート.md",
-    "10_Template/おすすめ本テンプレート.md",
+    "04_Diary/2025-07-12.md",
+    "04_Diary/2025-07-09.md",
+    "04_Diary/2025-07-08.md",
+    "04_Diary/2025-07-07.md",
+    "04_Diary/2025-07-11.md",
+    "04_Diary/2025-07-10.md",
+    "04_Diary",
+    "02_Programing/shiftB/ぶべさん_インタビュー(2025-07-06).md",
+    "02_Programing/jambo/クイックノート(Miu-Web).md",
+    "02_Programing/shiftB",
+    "02_Programing/アイデア.md",
+    "02_Programing/jambo",
+    "02_Programing",
     "03_personal/読みたい本リスト/体系的に学ぶ安全なWebアプリケーションの作り方.md",
     "03_personal/読みたい本リスト/達人プログラマー.md",
     "03_personal/読みたい本リスト/情熱プログラマー.md",
+    "03_personal/読みたい本リスト/暗号技術のすべて.md",
     "03_personal/読みたい本リスト/Kubernetesの知識地図.md",
     "03_personal/読みたい本リスト/テスト駆動開発.md",
-    "03_personal/読みたい本リスト",
     "03_personal/jambo関係/2025年有給・年休・月給.md",
-    "03_personal/jambo関係",
-    "04_Diary/2025-07-10.md",
-    "04_Diary/2025-07-09.md",
-    "04_Diary/2025-07-08.md",
+    "03_personal/アイデア.md",
     "03_personal/practice.md",
-    "02_Programing/アイデア.md",
-    "02_Programing/jambo/クイックノート(Miu-Web).md",
-    "04_Diary/2025-07-07.md",
-    "04_Diary/2025-07-06.md"
+    "03_personal/読みたい本リスト",
+    "03_personal/jambo関係",
+    "03_personal",
+    "10_Template/デイリーノートテンプレート.md",
+    "10_Template/フロンタマターテンプレート.md",
+    "10_Template/おすすめ本テンプレート.md",
+    "10_Template"
   ]
 }
