@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Diary/2025-07-13.md",
+                "file": "04_Diary/2025-07/week-2/2025-07-07.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-13"
+              "title": "2025-07-07"
             }
           }
         ],
@@ -212,12 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14877f255ffc76b0",
+  "active": "24e582c65dc4ffd3",
   "lastOpenFiles": [
-    "04_Diary/2025-07-12.md",
-    "04_Diary/2025-07-13.md",
-    "04_Diary/2025-07-11.md",
-    "04_Diary/2025-07-10.md",
+    "04_Diary/2025-07/week-3",
+    "04_Diary/2025-07/week-3/2025-07-13.md",
+    "04_Diary/2025-07/week-2",
+    "04_Diary/2025-07",
+    "04_Diary/2025-07/week-2/2025-07-12.md",
+    "04_Diary/2025-07/week-2/2025-07-11.md",
+    "04_Diary/2025-07/week-2/2025-07-10.md",
     "03_personal/jambo関係/2025年有給・年休・月給.md",
     "03_personal/practice.md",
     "03_personal/jambo関係",
@@ -232,10 +235,10 @@
     "03_personal/読みたい本リスト/情熱プログラマー.md",
     "10_Template/フロンタマターテンプレート.md",
     "04_Diary/無題のファイル.md",
-    "04_Diary/2025-07-09.md",
+    "04_Diary/2025-07/week-2/2025-07-09.md",
     "03_personal/読みたい本リスト",
-    "04_Diary/2025-07-08.md",
-    "04_Diary/2025-07-07.md",
+    "04_Diary/2025-07/week-2/2025-07-08.md",
+    "04_Diary/2025-07/week-2/2025-07-07.md",
     "02_Programing/jambo/クイックノート(Miu-Web).md",
     "04_Diary/2025-07-06.md",
     "02_Programing/アイデア.md",
@@ -247,9 +250,6 @@
     "02_Programing/shiftB",
     "10_Template",
     "01_indox",
-    "04_Diary",
-    "無題のファイル.canvas",
-    "2025-07-05.md",
-    "02_Programing"
+    "無題のファイル.canvas"
   ]
 }
