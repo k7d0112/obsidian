@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Diary/2025-07-12.md",
+                "file": "04_Diary/2025-07-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-12"
+              "title": "2025-07-13"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "14877f255ffc76b0",
   "lastOpenFiles": [
-    "04_Diary/2025-07-11.md",
     "04_Diary/2025-07-12.md",
+    "04_Diary/2025-07-13.md",
+    "04_Diary/2025-07-11.md",
     "04_Diary/2025-07-10.md",
     "03_personal/jambo関係/2025年有給・年休・月給.md",
     "03_personal/practice.md",
@@ -249,7 +250,6 @@
     "04_Diary",
     "無題のファイル.canvas",
     "2025-07-05.md",
-    "02_Programing",
-    "Welcome.md"
+    "02_Programing"
   ]
 }
