@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-07-13"
             }
+          },
+          {
+            "id": "018fe0f7fa4e442f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_personal/アイデア.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "アイデア"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbc017ef4f0f395d",
+  "active": "018fe0f7fa4e442f",
   "lastOpenFiles": [
+    "04_Diary/2025-07/week-3/2025-07-14.md",
+    "04_Diary/2025-07/week-3/2025-07-13.md",
+    "02_Programing/副業/今後の副業について(2025-07-14~).md",
+    "/02_Programing/副業/今後の副業について(2025-07-14~).md",
+    "/02_Programing/副業",
+    "02_Programing/副業",
+    "/02_Programing",
     "04_Diary/2025-07-13.md",
     "04_Diary/2025-07/week-2/2025-07-09.md",
     "04_Diary/2025-07/week-2/2025-07-08.md",
@@ -183,7 +205,6 @@
     "04_Diary/2025-07/week-2/2025-07-12.md",
     "04_Diary/2025-07/week-2/2025-07-11.md",
     "04_Diary/2025-07/week-2/2025-07-10.md",
-    "04_Diary/2025-07/week-3/2025-07-13.md",
     "04_Diary/2025-07/week-2",
     "04_Diary/2025-07/week-3",
     "04_Diary/2025-07",
@@ -205,12 +226,6 @@
     "03_personal/読みたい本リスト/達人プログラマー.md",
     "03_personal/読みたい本リスト/体系的に学ぶ安全なWebアプリケーションの作り方.md",
     "03_personal/読みたい本リスト/Kubernetesの知識地図.md",
-    "04_Diary/2025-07-11.md",
-    "04_Diary/2025-07-10.md",
-    "/04_Diary/2025-07-11.md",
-    "04_Diary/2025-07-09.md",
-    "04_Diary",
-    "02_Programing/shiftB",
-    "02_Programing/jambo"
+    "04_Diary/2025-07-11.md"
   ]
 }
