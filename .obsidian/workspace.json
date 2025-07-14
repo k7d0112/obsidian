@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Diary/2025-07/week-2/2025-07-07.md",
+                "file": "02_Programing/副業/今後の副業について(2025-07-14~).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-07"
+              "title": "今後の副業について(2025-07-14~)"
             }
           }
         ],
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_personal/アイデア.md",
+                "file": "02_Programing/副業/今後の副業について(2025-07-14~).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アイデアのアウトライン"
+              "title": "今後の副業について(2025-07-14~)のアウトライン"
             }
           },
           {
@@ -212,10 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24e582c65dc4ffd3",
+  "active": "32e3bce104f072ec",
   "lastOpenFiles": [
-    "04_Diary/2025-07/week-3",
+    "02_Programing/アイデア.md",
+    "02_Programing/副業/今後の副業について(2025-07-14~).md",
+    "02_Programing/副業",
     "04_Diary/2025-07/week-3/2025-07-13.md",
+    "04_Diary/2025-07/week-2/2025-07-07.md",
+    "04_Diary/2025-07/week-3",
     "04_Diary/2025-07/week-2",
     "04_Diary/2025-07",
     "04_Diary/2025-07/week-2/2025-07-12.md",
@@ -238,18 +242,14 @@
     "04_Diary/2025-07/week-2/2025-07-09.md",
     "03_personal/読みたい本リスト",
     "04_Diary/2025-07/week-2/2025-07-08.md",
-    "04_Diary/2025-07/week-2/2025-07-07.md",
     "02_Programing/jambo/クイックノート(Miu-Web).md",
     "04_Diary/2025-07-06.md",
-    "02_Programing/アイデア.md",
     "03_Diary/2025-07-06.md",
     "03_Diary",
     "02_Programing/shiftB/ぶべさん_インタビュー(2025-07-06).md",
     "03_personal",
     "02_Programing/jambo",
     "02_Programing/shiftB",
-    "10_Template",
-    "01_indox",
     "無題のファイル.canvas"
   ]
 }
