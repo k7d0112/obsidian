@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "practice"
             }
-          },
-          {
-            "id": "14877f255ffc76b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Diary/2025-07-16.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-16"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14877f255ffc76b0",
+  "active": "32e3bce104f072ec",
   "lastOpenFiles": [
+    "04_Diary/2025-07/week-3/2025-07-16.md",
+    "04_Diary/2025-07/week-3/2025-07-15.md",
     "04_Diary/2025-07-15.md",
     "04_Diary/2025-07-16.md",
     "04_Diary/2025-07/week-3/2025-07-14.md",
@@ -243,9 +230,7 @@
     "03_personal/読みたい本リスト/情熱プログラマー.md",
     "10_Template/フロンタマターテンプレート.md",
     "04_Diary/無題のファイル.md",
-    "04_Diary/2025-07/week-2/2025-07-09.md",
     "03_personal/読みたい本リスト",
-    "04_Diary/2025-07/week-2/2025-07-08.md",
     "03_Diary",
     "03_personal",
     "02_Programing/jambo",
