@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "02_Programing": "🖥",
-  "01_indox": "📥",
   "02_Programing/shiftB": "🏫",
   "02_Programing/jambo": "🏢",
   "02_Programing/アイデア.md": "💡",
@@ -46,5 +45,6 @@
   "10_Template": "📔",
   "03_personal/読みたい本リスト": "📚",
   "03_personal/jambo関係": "🏢",
-  "02_Programing/副業": "LiBriefcaseBusiness"
+  "02_Programing/副業": "LiBriefcaseBusiness",
+  "01_inbox": "📥"
 }

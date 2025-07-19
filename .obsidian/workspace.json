@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_personal/practice.md",
+                "file": "04_Diary/2025-07/week-3/2025-07-18.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "practice"
+              "title": "2025-07-18"
+            }
+          },
+          {
+            "id": "5d695ea7e6abf517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_inbox/inboxフォルダについて.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "inboxフォルダについて"
+            }
+          },
+          {
+            "id": "0184d22135708444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_inbox/クイックメモ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "クイックメモ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 300
   },
   "right": {
     "id": "974d63a84a28b363",
@@ -160,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Diary/2025-07-16.md",
+                "file": "01_inbox/inboxフォルダについて.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-16のアウトライン"
+              "title": "inboxフォルダについてのアウトライン"
             }
           },
           {
@@ -184,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +226,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24e582c65dc4ffd3",
+  "active": "32e3bce104f072ec",
   "lastOpenFiles": [
+    "01_inbox/クイックメモ.md",
+    "01_inbox/inboxフォルダについて.md",
+    "04_Diary/2025-07/week-3/2025-07-18.md",
+    "04_Diary/2025-07/week-4",
+    "04_Diary/2025-07/week-3/2025-07-19.md",
+    "04_Diary/2025-07/week-3/2025-07-17.md",
+    "03_personal/practice.md",
+    "04_Diary/2025-07-16.md",
     "04_Diary/2025-07/week-3/2025-07-16.md",
     "04_Diary/2025-07/week-3/2025-07-15.md",
     "04_Diary/2025-07-15.md",
-    "04_Diary/2025-07-16.md",
     "04_Diary/2025-07/week-3/2025-07-14.md",
     "03_personal/読みたい本リスト/STAY SMALL 会社は「小さい」ほどうまくいく.md",
     "02_Programing/副業/今後の副業について(2025-07-14~).md",
@@ -218,7 +253,6 @@
     "04_Diary/2025-07/week-2/2025-07-11.md",
     "04_Diary/2025-07/week-2/2025-07-10.md",
     "03_personal/jambo関係/2025年有給・年休・月給.md",
-    "03_personal/practice.md",
     "03_personal/jambo関係",
     "03_personal/アイデア.md",
     "03_personal/読みたい本リスト/Kubernetesの知識地図.md",
@@ -226,16 +260,10 @@
     "03_personal/読みたい本リスト/暗号技術のすべて.md",
     "03_personal/読みたい本リスト/体系的に学ぶ安全なWebアプリケーションの作り方.md",
     "03_personal/読みたい本リスト/達人プログラマー.md",
-    "10_Template/おすすめ本テンプレート.md",
-    "10_Template/デイリーノートテンプレート.md",
-    "03_personal/読みたい本リスト/情熱プログラマー.md",
-    "10_Template/フロンタマターテンプレート.md",
-    "04_Diary/無題のファイル.md",
     "03_personal/読みたい本リスト",
     "03_Diary",
     "03_personal",
     "02_Programing/jambo",
-    "02_Programing/shiftB",
     "無題のファイル.canvas"
   ]
 }
